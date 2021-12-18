@@ -1,27 +1,17 @@
 # MapasApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.3.
+## ENGLISH
 
-## Development server
+This app was made from scratch with Angular to show different maps and some common utilities of the maps. This was made using the [mapbox API](https://www.mapbox.com) since it's free. Some of the features of this app are:
+- Fullscreen map
+- Map with interactive range
+- Dynamic markers that can be move and stored locally
+- Mini maps for showing different location
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## ESPAÑOL
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Esta aplicación fue hecha desde cero con Angular para mostrar diferentes mapas y algunas funcionalidades comunes de los mapas en apps. Se utilizo el [API de mapbox](https://www.mapbox.com) que es gratuito. Algunas de las funcionalidades de la app son:
+- Mapa en pantalla completa
+- Mapa con un slide para cambiar el rango (zoom) del mapa
+- Marcadores dinamicos que se pueden poner donde se quiera y se guardan localmente
+- Mini mapas para mostrar diferentes ubicaciones
